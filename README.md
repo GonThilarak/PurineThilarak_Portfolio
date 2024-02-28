@@ -22,7 +22,8 @@
 - <b>Power Bi</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Tableau</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Competitor Analysis - PlayStation vs Xbox vs Nintendo](https://public.tableau.com/app/profile/purine.thilarak/viz/CompetitorAnalysis-PlaystationvsXboxvsNintendo/CompetitorAnalysis1994-2010)
+  - [Poupularity of K-pop Analysis](https://public.tableau.com/app/profile/purine.thilarak/viz/Allyouneedtoknowaboutkpop/Dashboard1)
 
 
 <h2> 🤳 Connect with me:</h2>
